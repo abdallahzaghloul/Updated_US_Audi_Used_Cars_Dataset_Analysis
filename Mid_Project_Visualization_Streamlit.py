@@ -14,7 +14,7 @@ Data_Columns_Uniting(data)
 st.markdown(" <center>  <h1> Used Car Dataset Analysis </h1> </font> </center> </h1> ",
             unsafe_allow_html=True)
 
-im = Image.open("C://Users//hp//Desktop//Data Science//Mid-Project//Data_Visulaization_Project_Files//audi-logo-2016.png")
+im = Image.open("audi-logo-2016.png")
 image = np.array(im)
 st.image(image)
 

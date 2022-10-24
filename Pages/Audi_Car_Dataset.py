@@ -4,7 +4,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-data=pd.read_csv("C://Users//hp//Desktop//Data Science//Mid-Project//Data_Visulaization_Project_Files//audi.csv")
+data=pd.read_csv("audi.csv")
 
 st.markdown(" <center>  <h1> Audi Car Data Set </h1> </font> </center> </h1> ",
             unsafe_allow_html=True)

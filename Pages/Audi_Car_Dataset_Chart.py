@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 
-data=pd.read_csv("C://Users//hp//Desktop//Data Science//Mid-Project//Data_Visulaization_Project_Files//audi.csv")
+data=pd.read_csv("audi.csv")
 
 
 def Data_Columns_Uniting (data):

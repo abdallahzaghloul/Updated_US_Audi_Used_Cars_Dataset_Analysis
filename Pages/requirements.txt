@@ -1,7 +1,6 @@
-streamlit
 
-plotly
 
+plotly==5.10.0
 
 
 
